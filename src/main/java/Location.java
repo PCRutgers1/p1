@@ -1,0 +1,1 @@
+public enum Location { } //define the 5 gym locations; refer to Lecture Note #2

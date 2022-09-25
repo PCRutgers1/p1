@@ -1,0 +1,1 @@
+public enum Time { } //define the time of a fitness class in hh:mm
