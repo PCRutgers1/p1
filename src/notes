@@ -1,0 +1,19 @@
+TODO LIST:
+1.) Write the CompareTo method testbed main for Member class part (a)
+
+    compareTo() method is used when sorting by names. You MUST design the test cases to thoroughly test
+    the compareTo() method. As a minimum, you must include the test cases in Project1_testCases.txt. You
+    must write a testbed main and implement the test cases. You must follow the instructions in the “Test
+    Design” section in the “Coding Standard and Ground Rules”. In the testbed main, you MUST write code
+    to print out the test results on the console showing the test cases passed or failed. The testbed main for
+    this class is worth 10 points. Please use “//” comments to identify the test case numbers in the testbed
+    main. There is no restriction on the number of lines you can have in the testbed main()
+
+2.) Write the isvalid() method for date class
+    You MUST design the test cases to thoroughly test the isValid() method. As a minimum, you must
+    include the test cases for the dates in Project1_testCases.txt. You must write a testbed main and
+    implement the test cases. You must follow the instructions in the “Test Design” section in the “Coding
+    Standard and Ground Rules. In the testbed main, you MUST write code to print out the test results to
+    the console showing the test cases are passed or failed. The testbed main for this class is worth 10
+    points. Please use “//” comments to identify the test case numbers in the testbed main. As an
+    exception, there is no restriction on the number of lines you can have in the testbed main().

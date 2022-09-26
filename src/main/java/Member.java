@@ -1,7 +1,3 @@
-import javax.xml.stream.Location;
-import java.io.InvalidObjectException;
-import java.util.Date;
-
 public class Member implements Comparable<Member>{
     private String fname;
     private String lname;
@@ -21,6 +17,26 @@ public class Member implements Comparable<Member>{
         }
     }
     @Override
-    public int compareTo(Member member) { return 1;}
+    public int compareTo(Member member) {
+        if (member.lname != this.lname)
+            return this.lname.compareTo(member.lname);
+        else
+            return this.fname.compareTo(member.fname);
+    }
+    public Date getdob(){
+        return this.dob;
+    }
+    public String getfname(){
+        return this.fname;
+    }
+    public String getlname(){
+        return this.lname;
+    }
+    public Date getExpireDate(){
+        return this.expire;
+    }
+    public Location getLocation(){
+        return this.location;
+    }
 
 }
