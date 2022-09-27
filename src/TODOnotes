@@ -18,4 +18,6 @@ TODO LIST:
     points. Please use “//” comments to identify the test case numbers in the testbed main. As an
     exception, there is no restriction on the number of lines you can have in the testbed main().
 
-3.) All of the commands
+3.) All of the commands with the Gym Manager class
+
+4.) the Fitnessclass class
