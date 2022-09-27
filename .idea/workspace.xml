@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3642347-7c2d-42da-9b12-c73f9c5a6e11" name="Changes" comment="Member eequal methods">
-      <change afterPath="$PROJECT_DIR$/src/main/java/MonthsAndDays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/notes" afterDir="false" />
+    <list default="true" id="f3642347-7c2d-42da-9b12-c73f9c5a6e11" name="Changes" comment="setup scan">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Date.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Date.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MemberDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MemberDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RunProject1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RunProject1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Time.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
