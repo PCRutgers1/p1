@@ -22,7 +22,6 @@ public class MemberDatabase {
 
     private boolean checkLocationExists(Member member){
         Location[] allLocations = Location.values();
-
         for (Location l : allLocations)
         {
             if (l == member.getLocation())
